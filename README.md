@@ -1,4 +1,4 @@
-# Goal of project.
+# Project goal.
 
 It is a GeekBrains MySQL relatinal database basics study project. Database using in the project serves for contain courses data and users who are studying at GeekBrains. To make analysys about user experience and business income to improve study process.
 
